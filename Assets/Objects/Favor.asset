@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1cfd6f32827c1641aacfa098db82d35, type: 3}
+  m_Name: Favor
+  m_EditorClassIdentifier: 
+  word:
+  - f
+  - a
+  - v
+  - o
+  - r
+  sprites:
+  - {fileID: 21300000, guid: 5a36efc861abc5841a9799ff76cfb1f7, type: 3}
+  - {fileID: 21300000, guid: 0094d586f70d91c4c8c572333a241ec9, type: 3}
+  - {fileID: 21300000, guid: 1b3c028ab0ea4844cb27b842ebb5e35c, type: 3}
+  - {fileID: 21300000, guid: fbe49a99ff4ca5c409b9f4a86ac7398f, type: 3}
+  speed: 2

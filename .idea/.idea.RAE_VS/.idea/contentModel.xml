@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\informatica\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\informatica\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_RAE_VS.127956447.00" t="ExcludeRecursive" />
+    <e p="D:\Proyecto\RAE_VS" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="EnemyWordSpawner.cs" t="Include" />
+        <e p="Scripts" t="Include">
+          <e p="Enemies" t="Include">
+            <e p="EnemyObject.cs" t="Include" />
+            <e p="EnemyWord.cs" t="Include" />
+            <e p="ScriptEnemy_Baso.cs" t="Include" />
+            <e p="ScriptEnemy_Hoso.cs" t="Include" />
+            <e p="ScriptEnemy_Khe.cs" t="Include" />
+          </e>
+          <e p="Player" t="Include">
+            <e p="GameOver.cs" t="Include" />
+            <e p="HealthScript.cs" t="Include" />
+            <e p="PlayerHealth.cs" t="Include" />
+            <e p="VideoScript.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="RAE_VS.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
